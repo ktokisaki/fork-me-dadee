@@ -7,4 +7,5 @@ int main(int arg_count, char *arg_list[]) {
 		printf("argument #%d\t-\t%s\n", i, arg_list[i]);
 	}
 	return 0;
+	//added comment by ktokisaki
 }
